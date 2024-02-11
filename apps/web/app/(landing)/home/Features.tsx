@@ -184,7 +184,7 @@ const featuresAutomations = [
   {
     name: "Automate your replies",
     description:
-      "Our AI agent will reply, forward, or archive emails based on the rules you provide it.",
+      "Our AI agent will reply, forward, set up filters in gmail, or archive emails based on the rules you provide it.",
     icon: Sparkles,
   },
   {
