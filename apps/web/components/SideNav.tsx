@@ -101,7 +101,7 @@ export const navigation: NavItem[] = [
 const bottomLinks: NavItem[] = [
   {
     name: "User Guide",
-    href: "https://docs.syncade.io",
+    href: "https://james-81.mintlify.app",
     target: "_blank",
     icon: BookIcon,
   },

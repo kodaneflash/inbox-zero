@@ -13,7 +13,7 @@ const navigation = {
     { name: "Contact", href: "mailto:contact@syncade.io", target: "_blank" },
     {
       name: "Documentation",
-      href: "https://docs.syncade.io",
+      href: "https://james-81.mintlify.app",
       target: "_blank",
     },
     { name: "Feature Requests", href: "/feature-requests", target: "_blank" },
