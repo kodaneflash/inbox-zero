@@ -40,14 +40,15 @@ export function Hero(props: {
           <div className="mx-auto max-w-xl text-center">
             {/* <HeroText>{props.title || <HeroHeadingAB />}</HeroText> */}
             <HeroText>
-              {props.title || "Clean Up Your Inbox In Minutes"}
+              {props.title || "Effortlessly Transform Your Inbox in Minutes"}
             </HeroText>
             <HeroSubtitle>
               {props.subtitle || (
                 <>
-                  Newsletter cleaner, AI automation, cold email blocker, and
-                  analytics. Syncade is the open-source email app that puts you
-                  back in control of your inbox.
+                  Elevate your email experience with quick inbox cleanup. Enjoy
+                  seamless newsletter management, AI-driven automation,
+                  effective cold email blocking, and detailed analytics. Take
+                  control and enhance your email efficiency with Syncade.
                 </>
               )}
             </HeroSubtitle>

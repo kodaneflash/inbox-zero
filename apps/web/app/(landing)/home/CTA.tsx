@@ -22,9 +22,9 @@ export function CTA() {
           Start using Syncade today.
         </h2>
         <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600">
-          Syncade uses AI to help you empty your inbox daily. What previously
-          took hours, now takes minutes. Syncade is your virtual assistant for
-          emails.
+          Syncade leverages AI to streamline your daily inbox management. Tasks
+          that once took hours can now be completed in minutes. Syncade is your
+          virtual assistant for emails.
         </p>
         <CTAButtons />
       </div>

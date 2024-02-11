@@ -95,9 +95,10 @@ export function Features() {
             host it yourself.
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Inbox Zero has undergone a thorough security process with Google to
-            ensure the protection of your emails. You can even self-host Inbox
-            Zero on your own infrastructure.
+            Syncade has passed a comprehensive security review with Google,
+            ensuring your emails are protected. Our platform secures your
+            information with TLS encryption, using Google's advanced security
+            measures to safeguard your data, offering you peace of mind.
           </p>
         </div>
       </div>
