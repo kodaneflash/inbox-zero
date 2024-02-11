@@ -11,7 +11,7 @@ const faqs = [
       <>
         Yes! Reach out and{" "}
         <a
-          href="mailto:james@devblock.pro"
+          href="mailto:contact@syncade.io"
           target="_blank"
           className="font-semibold hover:underline"
         >
@@ -37,7 +37,7 @@ const faqs = [
       <>
         If you don{"'"}t think we provided you with value send us an{" "}
         <a
-          href="mailto:james@devblock.pro"
+          href="mailto:contact@syncade.io"
           target="_blank"
           className="font-semibold hover:underline"
         >

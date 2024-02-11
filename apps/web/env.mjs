@@ -69,7 +69,7 @@ export const env = createEnv({
     NEXT_PUBLIC_SUPPORT_EMAIL: z
       .string()
       .optional()
-      .default("james@devblock.pro"),
+      .default("contact@syncade.io"),
     NEXT_PUBLIC_GTM_ID: z.string().optional(),
   },
   // For Next.js >= 13.4.4, you only need to destructure client variables:
