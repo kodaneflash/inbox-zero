@@ -97,7 +97,7 @@ export function Features() {
           <p className="mt-6 text-lg leading-8 text-gray-600">
             Syncade has passed a comprehensive security review with Google,
             ensuring your emails are protected. Our platform secures your
-            information with TLS encryption, using Google's advanced security
+            information with TLS encryption, using Googles advanced security
             measures to safeguard your data, offering you peace of mind.
           </p>
         </div>
