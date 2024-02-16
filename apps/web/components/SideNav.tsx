@@ -102,12 +102,6 @@ const bottomLinks = [
     target: "_blank",
     icon: LightbulbIcon,
   },
-  {
-    name: "Star on GitHub",
-    href: "/github",
-    target: "_blank",
-    icon: StarIcon,
-  },
   { name: "Premium", href: "/premium", icon: CrownIcon },
   { name: "Settings", href: "/settings", icon: CogIcon },
 ];
