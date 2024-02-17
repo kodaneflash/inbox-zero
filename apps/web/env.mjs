@@ -37,7 +37,7 @@ export const env = createEnv({
       .transform((value) => value?.split(",")),
   },
   client: {
-    NEXT_PUBLIC_LEMON_STORE_ID: z.string().nullish().default("inboxzero"),
+    NEXT_PUBLIC_LEMON_STORE_ID: z.string().nullish().default("syncade"),
 
     // lemon plans
     // pro

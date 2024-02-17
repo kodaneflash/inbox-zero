@@ -25,7 +25,7 @@ const calFont = localFont({
 
 const title = "Syncade | Organize your inbox in minutes";
 const description =
-  "Syncade is the quickest way to reach inbox zero, with our newsletter cleaner, AI automation, cold email blocker, and email analytics.";
+  "Syncade is the quickest way to organize your email, with our newsletter cleaner, AI automation, cold email blocker, and email analytics.";
 
 export const metadata: Metadata = {
   title,

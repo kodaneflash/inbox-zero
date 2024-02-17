@@ -71,7 +71,7 @@ export function Pricing() {
           </p>
         </div>
         <p className="mx-auto mt-6 max-w-2xl text-center text-lg leading-8 text-gray-600">
-          Clean your email and reach inbox zero fast with AI assistance.
+          Clean your email and organize your inbox quickly with AI assistance.
         </p>
 
         {isPremium && (

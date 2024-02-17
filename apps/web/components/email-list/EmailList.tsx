@@ -133,7 +133,7 @@ export function List(props: {
         <Celebration
           message={
             props.type === "inbox"
-              ? "You made it to Inbox Zero!"
+              ? "You made it to Email Zen!"
               : "All emails handled!"
           }
         />

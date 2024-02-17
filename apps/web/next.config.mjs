@@ -46,16 +46,6 @@ const nextConfig = {
         permanent: true,
       },
       {
-        source: "/github",
-        destination: "https://github.com/kodaneflash/inbox-zero",
-        permanent: true,
-      },
-      {
-        source: "/discord",
-        destination: "https://discord.gg/UnBwsydrug",
-        permanent: true,
-      },
-      {
         source: "/linkedin",
         destination: "https://www.linkedin.com/company/inbox-zero-ai/",
         permanent: true,
