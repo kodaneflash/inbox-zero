@@ -33,22 +33,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: "https://www.syncade.io/blog/post/how-my-open-source-saas-hit-first-on-product-hunt",
     },
     {
-      url: "https://www.getinboxzero.com/blog/post/why-build-an-open-source-saas",
+      url: "https://www.syncade.io/blog/post/why-build-an-open-source-saas",
     },
     {
-      url: "https://docs.getinboxzero.com/",
+      url: "https://docs.syncade.io/",
     },
     {
-      url: "https://docs.getinboxzero.com/introduction",
+      url: "https://docs.syncade.io/introduction",
     },
     {
-      url: "https://docs.getinboxzero.com/essentials/email-ai-automation",
+      url: "https://docs.syncade.io/essentials/email-ai-automation",
     },
     {
-      url: "https://docs.getinboxzero.com/essentials/bulk-email-unsubscriber",
+      url: "https://docs.syncade.io/essentials/bulk-email-unsubscriber",
     },
     {
-      url: "https://docs.getinboxzero.com/essentials/cold-email-blocker",
+      url: "https://docs.syncade.io/essentials/cold-email-blocker",
     },
   ];
 }
